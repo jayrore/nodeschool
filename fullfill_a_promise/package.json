@@ -1,0 +1,14 @@
+{
+  "name": "fullfill_a_promise",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayro Salgado",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.1.2"
+  }
+}
